@@ -1,0 +1,21 @@
+body {
+  background-color: #d6e6f2;
+}
+
+hr {
+  border-color: #f7fbfc;
+  border-style: dotted none none;
+  border-width: 4px;
+  width: 5%;
+}
+
+img {
+  height: 20%;
+}
+h1{
+  color: #4f3961;
+  font-family: courier;
+}
+h3 { color: #413c69;
+  font-family: courier;
+}
